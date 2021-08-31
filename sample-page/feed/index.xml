@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Home	</title>
-	<atom:link href="/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/eu-sou-static/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>/eu-sou-static/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Tue, 23 Feb 2021 16:52:33 +0000</lastBuildDate>
 	<sy:updatePeriod>
